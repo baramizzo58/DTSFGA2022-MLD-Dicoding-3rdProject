@@ -1,5 +1,5 @@
 # DTSFGA2022-MLD-Dicoding-Development-2ndProject
-2nd Project of Machine Learning Developer Training in Fresh Graduate Academy Program (Digital Talent Scholarship 2022).
+2nd Project of Machine Learning Developer (Learn Machine Learning Development Stage) Training in Fresh Graduate Academy Program (Digital Talent Scholarship 2022).
 
 ## Project Explanation
 Creating Machine Learning Models with Time Series Data.
